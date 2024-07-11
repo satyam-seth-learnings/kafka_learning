@@ -1,0 +1,12 @@
+{
+  "name": "kafka-app",
+  "version": "1.0.0",
+  "description": "- [YouTube Video Link](https://youtu.be/ZJJHm_bd9Zo?si=3kgqDfYsU4n825rP)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
