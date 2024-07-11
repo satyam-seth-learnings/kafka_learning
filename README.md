@@ -1,3 +1,3 @@
-# Kafka Learning
+# Apache Kafka Learning
 
-[Official Doc])(https://kafka.apache.org/)
+[Official Doc](https://kafka.apache.org/)
